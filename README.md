@@ -1,7 +1,5 @@
 -  Hi, I’m Fandresena Mihaja
--  I’m interested in for stage to do an internship
 -  I’m currently learning PHP,java,Python and C
--  I’m looking to collaborate on business in banking or cybersecurity or networks
 -  How to reach me on gmail:fmihaja041@gmail.com or Facebook:Fandresena Mihaja
 
 <!---
