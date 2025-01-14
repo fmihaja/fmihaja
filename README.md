@@ -16,8 +16,8 @@ Hi! I'm **Fandresena Mihaja**, a passionate developer always curious to learn an
 
 📌 **Key Projects**:  
 
-- **Agenda for the Ministry of Environment and Sustainable Development**: https://e-voary.mg/agenda/(lien vers le site)
-- **EMIFI Song Website**:https://github.com/fmihaja/emifiPublised.git(repos git)
+- **Agenda for the Ministry of Environment and Sustainable Development**: https://e-voary.mg/agenda/ (lien vers le site)
+- **EMIFI Song Website**:https://github.com/fmihaja/emifiPublised.git (repos git)
 
 📫 **Get in Touch**:  
 
